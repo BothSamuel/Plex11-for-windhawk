@@ -3,6 +3,10 @@ Theme based on the Plex style of Windows Longhorn and the concept by /Mann53 on 
 
 Theme for the Windhawk Windows 11 Start Menu Styler and Windows 11 Start Menu Styler mods.
 
+Original concept : <a href="https://www.reddit.com/r/Windows11/comments/1i7khdf/windows_11_start_menu_longhornplex_style/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">Mann53 on Windows 11 Reddit</a>\
+
+<img width="1920" height="1080" alt="Captura de pantalla (3)" src="https://github.com/user-attachments/assets/2d33b245-f3b0-4eb6-9a08-d7661e0152cf" />
+
 # Software Needed
 Windhawk : <a href="https://windhawk.net/">Link</a>\
 
@@ -27,3 +31,4 @@ Windhawk : <a href="https://windhawk.net/">Link</a>\
   - `StartDocked.AppListView#NavigationPanePlacesListView` (To adjust the position of Start menu shortcuts (File Explorer, Downloads, Videos, etc.), keep in mind that you need to modify two `margin` values ​​with the exact same value, one positive and one negative. If you're using a touchscreen device, you might experience problems with Start menu gestures if you only modify one value.)
   - `Windows.UI.Xaml.Controls.Grid#UndockedRoot`(To adjust the position of the applications pinned to the start menu and show the recommended section, since in some scales this may disappear.)
   
+Wallpaper : <a href="https://wallpapersden.com/hd-desert-photography-2022-wallpaper/">Link</a>\
